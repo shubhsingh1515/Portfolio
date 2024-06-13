@@ -1,0 +1,57 @@
+[
+  {
+    "name": "MERN BLOGGING WEBSITE",
+    "desc": "developed a blog website using the MERN stack, featuring CRUD operations, user authentication, and a responsive interface.",
+    "image": "blog",
+    "category": "Web Development",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/shubhsingh1515/mern-blog"
+    }
+  },
+  {
+    "name": "Real Time Chat App",
+    "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
+    "image": "chat",
+    "category": "node.js & socket.io",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/shubhsingh1515/Real-Time-Chat-Application"
+    }
+  },
+
+  {
+    "name": "Movie Search App",
+    "desc": "Developed a dynamic movie search application using React.js, allowing users to search for movies by title.",
+    "image": "movie",
+    "category": "react.js & API",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/shubhsingh1515/Movie-Search-App"
+    }
+  },
+  {
+    "name": "Weather App",
+    "desc": "Developed a weather application using HTML, CSS, and JavaScript, showcasing proficiency in front-end web development.",
+    "image": "weather",
+    "category": "web development",
+    "links": {
+      "view": "https://shubhsingh1515.github.io/Weather-App/",
+      "code": "https://github.com/shubhsingh1515/Weather-App/"
+    }
+  },
+
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "port",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/shubhsingh1515/Portfolio"
+    }
+  }
+
+ 
+
+]
