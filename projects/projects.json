@@ -5,7 +5,7 @@
     "image": "blog",
     "category": "Web Development",
     "links": {
-      "view": "#",
+      "view": "https://mern-blog-o6qn.onrender.com/",
       "code": "https://github.com/shubhsingh1515/mern-blog"
     }
   },
@@ -26,7 +26,7 @@
     "image": "movie",
     "category": "react.js & API",
     "links": {
-      "view": "#",
+      "view": "https://movie-search-app-qccb.onrender.com/",
       "code": "https://github.com/shubhsingh1515/Movie-Search-App"
     }
   },
@@ -47,11 +47,9 @@
     "image": "port",
     "category": "basicweb",
     "links": {
-      "view": "#",
+      "view": "https://p-6nib.onrender.com/",
       "code": "https://github.com/shubhsingh1515/Portfolio"
     }
-  }
-
- 
+  } 
 
 ]
